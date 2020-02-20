@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: fff;
+    font-family: roboto, sans-serif;
+    font-size: 1rem;
+    color: white;
+    min-height: 100vh;
+}
+#myname{
+    font-size: 1.3rem;
+}
+.main-header{
+    background-color: #d1ccc0;
+}
+.content{
+    color: black;
+    height: 380px;
+}
+.card{
+    height: 250px;;
+}
+.main-footer{
+    background-color: #d1ccc0;
+}
